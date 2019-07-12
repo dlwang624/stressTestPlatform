@@ -77,9 +77,4 @@ renren-fast
 - 账号密码：admin/admin
 - Swagger路径：http://localhost:8080/renren-fast/swagger/index.html
 
-<br> 
-
-如果有需要，请帮忙支持一下：https://www.jianshu.com/p/cd6388627f64
-互帮互助，感谢。
-
-<br> 
+<br>
